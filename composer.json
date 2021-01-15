@@ -1,0 +1,13 @@
+{
+    "name": "vadim/new",
+    "description": "Project",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "vadim\\project\\": "public"
+        }
+    }
+}
